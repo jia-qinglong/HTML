@@ -1,0 +1,46 @@
+/*
+p ,li,a{
+color: green;
+width: 500px;
+border: 5px;
+}
+*/
+
+/*注释标记*/
+html{
+font-size: 20px;
+font-family: 'Open Sans', sans-serif; 
+background-color: green;
+}
+
+/*注释标记*/
+h1{
+font-size: 40px;
+text-align: center;
+color: purple;
+margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 3px black;
+}
+h3{color:blue;}
+
+/*注释标记*/
+p,li{
+font-size: 20px;
+line-height: 1;
+letter-spacing: 1px;
+color: green;
+}
+
+body{
+	width: 600px;
+  margin: 0 auto 40px auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid blue;
+	}
+img {
+  display: block;
+  margin: 0 auto;
+}
